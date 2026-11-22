@@ -1,0 +1,121 @@
+{
+    "activeFile": "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_3.tmx",
+    "expandedProjectPaths": [
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_1.tmx": {
+            "scale": 1.683940972222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.014846126089,
+                "y": 159.4473941955771
+            }
+        },
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_2.tmx": {
+            "scale": 1.683940972222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 314.7378730862416,
+                "y": 160.04123923913605
+            }
+        },
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_3.tmx": {
+            "scale": 0.4209852430555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1152.0593845043559,
+                "y": 640.1649569565443
+            }
+        },
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Platforms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Snow_Ground.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Space_ship.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Char3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 320,
+                "y": 31.66666666666663
+            }
+        },
+        "Char3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Char4.tmx": {
+            "scale": 1.5155468749999998,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 320.01649569565444,
+                "y": 32.001649569565444
+            }
+        },
+        "Char4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Char5.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 350,
+                "y": 31.66666666666663
+            }
+        },
+        "Char5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Yura/Рабочее/PixelFightingGame/images/Level_3",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 18,
+    "openFiles": [
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_1.tmx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Platforms.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Snow_Ground.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_2.tmx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Space_ship.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_3.tmx"
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_1.tmx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Platforms.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Snow_Ground.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_2.tmx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Space_ship.tsx",
+        "C:/Users/Yura/Рабочее/PixelFightingGame/maps/Level_3.tmx",
+        "Char5.tsx",
+        "Char5.tmx",
+        "Char3.tsx",
+        "Char3.tmx",
+        "Char4.tsx",
+        "Char4.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 1
+}
